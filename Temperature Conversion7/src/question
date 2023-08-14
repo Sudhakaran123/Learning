@@ -1,0 +1,49 @@
+Question 2 :Temperature Conversion
+
+Scenario: Bob is working on a weather app that needs to convert temperatures between Celsius and Fahrenheit. He's aware of the conversion formulas but needs to write methods to perform the conversions accurately.
+
+Task: Bob needs your assistance in creating a Java program to handle temperature conversions. He has provided you with the conversion formulas and wants you to guide him through the process of building the necessary methods and user interface.
+Welcome to the Temperature Conversion Tool!
+
+Select an option:
+
+1. Convert Celsius to Fahrenheit
+
+2. Convert Fahrenheit to Celsius
+
+Enter your choice: 2
+
+Enter the temperature in Fahrenheit: 98.6
+
+98.6°F is equivalent to 37.0°C
+Select an option:
+
+1. Convert Celsius to Fahrenheit
+
+2. Convert Fahrenheit to Celsius
+
+Enter your choice: 1
+
+Enter the temperature in Celsius: 25
+
+25.0°C is equivalent to 77.0°F
+
+---------------------
+
+Sample Output:2
+
+---------------------
+
+Welcome to the Temperature Conversion Tool!
+
+Select an option:
+
+1. Convert Celsius to Fahrenheit
+
+2. Convert Fahrenheit to Celsius
+
+Enter your choice: 2
+
+Enter the temperature in Fahrenheit: 98.6
+
+98.6°F is equivalent to 37.0°C
